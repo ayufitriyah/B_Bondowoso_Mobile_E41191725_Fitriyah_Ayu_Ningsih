@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TableLayout</string>
+    <string name="login">login</string>
+    <string name="username">username</string>
+    <string name="masukkan_username">masukkan_username</string>
+    <string name="password_input">password_input</string>
+    <string name="masukkan_password">masukkan_password</string>
+    <string name="submit">submit</string>
+</resources>

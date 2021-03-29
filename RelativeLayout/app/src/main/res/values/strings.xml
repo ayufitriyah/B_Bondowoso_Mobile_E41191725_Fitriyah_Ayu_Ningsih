@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RelativeLayout</string>
+    <string name="reminder_name">Remainder_Name</string>
+    <string name="done">Done</string>
+
+    <string-array name="Spinner_date">
+        <item>Wed, June 27 2012</item>
+    </string-array>
+
+    <string-array name="spinner_jam">
+        <item>8:00 AM</item>
+    </string-array>
+
+</resources>

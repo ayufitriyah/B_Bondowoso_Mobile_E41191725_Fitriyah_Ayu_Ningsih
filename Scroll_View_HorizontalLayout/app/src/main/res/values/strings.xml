@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Scroll_View_HorizontalLayout</string>
+    <string name="button_one">one</string>
+    <string name="button_two">two</string>
+    <string name="button_three">three</string>
+    <string name="button_four">four</string>
+    <string name="button_five">five</string>
+    <string name="button_six">six</string>
+    <string name="button_seven">seven</string>
+    <string name="button_eight">eight</string>
+    <string name="button_nine">nine</string>
+</resources>
